@@ -1,0 +1,24 @@
+
+{
+    "code":200,
+    "msg": "请求成功!",
+    "data": [
+        {
+            "title":"M.S. in CS, Georgia Institute of Technology, Atlanta, GA Aug. 2020 - Now",
+            "brief":"I am a student on campus in COVID-19 pandemic.",
+            "tags":[ "Machine Learning","Real Time Embedded Systems","Big Data Service & Analytics","Data Visualization & Analytics" ],
+            "cover":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Georgia_Tech_seal.svg/150px-Georgia_Tech_seal.svg.png",
+            "id":"https://www.cc.gatech.edu/"
+        },
+        {
+            "title":"B.S. in EE, National Tsing Hua University, Hsinchu, Taiwan   Sep. 2014 –Jan. 2019",
+            "brief":"Last-60 GPA: 4.20/4.30, CS-Related GPA: 4.19/4.30 2 Academic Achievement Awards(Oct. 2017, Oct. 2018)",
+            "tags":["Design and Analysis of Algorithms", "Introduction to Computer Networks"," Computer Architecture"," Operating Systems","Embedded System Laboratory",
+                " Natural Language Processing", " Deep Learning","Special Topics in Digital signal processing : Introduction to Machine Learning","Probability"," Linear Algebra",
+                " Discrete Mathematics", "Introduction to Programming"," Introduction to Internet of Things","Logic Design Laboratory"," Logic Design", 
+                " Special Topic on Implementation (I)(II)"],
+            "cover":"https://www.nthu.edu.tw//public/images/about10/cis-1-6.jpg",
+            "id":"http://web.ee.nthu.edu.tw/?Lang=en"
+        }
+    ]
+}
