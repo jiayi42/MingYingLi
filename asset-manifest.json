@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/MingYingLi/static/css/main.d996661f.chunk.css",
+    "main.css": "/MingYingLi/static/css/main.e15abc5d.chunk.css",
     "main.js": "/MingYingLi/static/js/main.399af99c.chunk.js",
     "main.js.map": "/MingYingLi/static/js/main.399af99c.chunk.js.map",
     "runtime-main.js": "/MingYingLi/static/js/runtime-main.d8cf7f14.js",
@@ -8,9 +8,9 @@
     "static/js/2.00f5278f.chunk.js": "/MingYingLi/static/js/2.00f5278f.chunk.js",
     "static/js/2.00f5278f.chunk.js.map": "/MingYingLi/static/js/2.00f5278f.chunk.js.map",
     "index.html": "/MingYingLi/index.html",
-    "precache-manifest.7ca3a7d1292eeb11a399169807c9bc49.js": "/MingYingLi/precache-manifest.7ca3a7d1292eeb11a399169807c9bc49.js",
+    "precache-manifest.47c522829ea673a8fd8883ea0cb3e0b1.js": "/MingYingLi/precache-manifest.47c522829ea673a8fd8883ea0cb3e0b1.js",
     "service-worker.js": "/MingYingLi/service-worker.js",
-    "static/css/main.d996661f.chunk.css.map": "/MingYingLi/static/css/main.d996661f.chunk.css.map",
+    "static/css/main.e15abc5d.chunk.css.map": "/MingYingLi/static/css/main.e15abc5d.chunk.css.map",
     "static/js/2.00f5278f.chunk.js.LICENSE.txt": "/MingYingLi/static/js/2.00f5278f.chunk.js.LICENSE.txt",
     "static/media/avatar.jpg": "/MingYingLi/static/media/avatar.004080d4.jpg",
     "static/media/linkedin.png": "/MingYingLi/static/media/linkedin.282b6494.png",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.d8cf7f14.js",
     "static/js/2.00f5278f.chunk.js",
-    "static/css/main.d996661f.chunk.css",
+    "static/css/main.e15abc5d.chunk.css",
     "static/js/main.399af99c.chunk.js"
   ]
 }
