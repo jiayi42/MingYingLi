@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "83f385bcf2a8f088a690a9e43bdefd94",
+    "revision": "1b6f226a77bc9ae5bef4ac56b73e607e",
     "url": "/MingYingLi/index.html"
   },
   {
-    "revision": "21e97a6fd3cd93f8ede8",
-    "url": "/MingYingLi/static/css/main.9eafee00.chunk.css"
+    "revision": "7f25a12d343b72c13653",
+    "url": "/MingYingLi/static/css/main.8d13c0f6.chunk.css"
   },
   {
     "revision": "24df991aff93a8c600a7",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MingYingLi/static/js/2.9fd1270f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "21e97a6fd3cd93f8ede8",
-    "url": "/MingYingLi/static/js/main.0a68eefa.chunk.js"
+    "revision": "7f25a12d343b72c13653",
+    "url": "/MingYingLi/static/js/main.11d6f2d7.chunk.js"
   },
   {
     "revision": "90efa1feac214d1c476f",
